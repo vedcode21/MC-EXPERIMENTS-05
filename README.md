@@ -1,3 +1,1 @@
-<center>
-# This is centered text
-</center>
+# MOBILE COMPUTING EXPERIMENTS
