@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ALERT_APP"
+rootProject.name = "alert_app"
 include(":app")
+ 
